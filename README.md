@@ -42,7 +42,7 @@ I am Diego, a 20 year old software engineer. My interests are around AI, deep le
   </a>
 </p>
 
-###Contact Me!
+### Contact Me!
 <p align="center">
   <h6></h6>
   <a href="https://www.linkedin.com/in/diegoobh/">
