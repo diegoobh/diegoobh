@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Diego 👋
 
-<!--
-**diegoobh/diegoobh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Diego, a 20 year old software engineer. My interests include the design of APIs, big data,development of websites,and Artificial Intelligence. Currently colaborate with Frontend Development tasks.
 
-Here are some ideas to get you started:
+##About me ⚡
+📚 Studying Computer Engineering at the University of Salamanca.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##My tech stack(s)🛠
+#BackEnd
+[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+#Windows
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)
+#Mobile
+[![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
+#Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,visualstudio,eclipse)](https://skillicons.dev)
+#More
+[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,ai)](https://skillicons.dev)
+#Contact Me ✉
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
