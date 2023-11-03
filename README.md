@@ -38,7 +38,7 @@ I am Diego, a 20 year old software engineer. My interests are around AI, deep le
 <p align="center">
   <h6>More</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,bash,ai" />
+    <img src="https://skillicons.dev/icons?i=linux,c,bash" />
   </a>
 </p>
 
