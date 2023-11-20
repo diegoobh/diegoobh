@@ -38,7 +38,7 @@ I am Diego, a 20 year old software engineer student. My interests are around AI,
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
   </a>
 </p>
 
