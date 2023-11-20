@@ -10,7 +10,7 @@ I am Diego, a 20 year old software engineer student. My interests are around AI,
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,nodejs" />
+    <img src="https://skillicons.dev/icons?i=py,java,nodejs,express,postgres" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ I am Diego, a 20 year old software engineer student. My interests are around AI,
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio" />
   </a>
 </p>
 
