@@ -15,6 +15,13 @@ I am Diego, a 20 year old software engineer student. My interests are around AI,
 </p>
 
 <p align="center">
+  <h6>FrontEnd</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,html" />
+  </a>
+</p>
+
+<p align="center">
   <h6>Windows</h6>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs" />
