@@ -3,7 +3,7 @@
 I am Diego, a 20 year old computer engineering student. My interests are around AI, deep learning, cybersecurity, IoT, blockchain and UI/UX.
 
 ### About me ⚡
-📚 Studying Computer Science at the University of Salamanca.
+📚 Studying Computer Engineering at the University of Salamanca.
 
 ### My tech stack(s)🛠
 
