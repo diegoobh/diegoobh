@@ -10,14 +10,14 @@ I am Diego, a 20 year old computer science student. My interests are around AI, 
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,nodejs,express,postgres" />
+    <img src="https://skillicons.dev/icons?i=py,java,express,postgres" />
   </a>
 </p>
 
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,html" />
+    <img src="https://skillicons.dev/icons?i=html" />
   </a>
 </p>
 
