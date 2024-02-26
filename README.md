@@ -45,7 +45,7 @@ I am Diego, a 20 year old computer engineering student. My interests are around 
 <p align="center">
   <h6>Learning...</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,vue,express,mongodb,kafka" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb" />
   </a>
 </p>
 
