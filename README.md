@@ -10,14 +10,14 @@ I am Diego, a 20 year old computer engineering student. My interests are around 
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,ts,nodejs,express,mongodb" />
   </a>
 </p>
 
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=html,js" />
   </a>
 </p>
 
@@ -31,21 +31,14 @@ I am Diego, a 20 year old computer engineering student. My interests are around 
 <p align="center">
   <h6>Mobile</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift" />
+    <img src="https://skillicons.dev/icons?i=swift,sqlite" />
   </a>
 </p>
 
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio" />
-  </a>
-</p>
-
-<p align="center">
-  <h6>Learning...</h6>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,visualstudio,postman" />
   </a>
 </p>
 
