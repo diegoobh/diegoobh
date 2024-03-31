@@ -3,7 +3,7 @@
 I am Diego, a 20 year old Computer Science student. My interests are around AI, web development and iOS development.
 
 ### About me ⚡
-📚 Studying Computer Engineering at the University of Salamanca.
+📚 Studying Computer Science at the University of Salamanca.
 
 ### My tech stack(s)🛠
 
