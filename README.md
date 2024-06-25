@@ -5,6 +5,7 @@ My interests are around AI, web development and iOS development.
 
 ### About me ⚡
 📚 Studying Computer Science at the University of Salamanca.
+
 🤖 Data Scientist at AIR Institute 
 
 ### My tech stack(s)🛠
