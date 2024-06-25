@@ -1,10 +1,11 @@
 ### Hi there, I'm Diego 👋
 
-I am Diego, a 20 year old Computer Science student at USAL currently working as an AI intern at AIR Institute.
+I am Diego, a 20 year old Computer Science student at USAL currently working as Data Scientist Intern at AIR Institute.
 My interests are around AI, web development and iOS development.
 
 ### About me ⚡
 📚 Studying Computer Science at the University of Salamanca.
+🤖 Data Scientist at AIR Institute 
 
 ### My tech stack(s)🛠
 
