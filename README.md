@@ -13,7 +13,7 @@ My interests are around AI, web development and iOS development.
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,ts,nodejs,express,mongodb&perline=3" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,ts,nodejs,express,mongodb,firebase&perline=3" />
   </a>
 </p>
 
