@@ -34,7 +34,7 @@ My interests are around AI, web development and iOS development.
 <p align="center">
   <h6>Mobile</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,sqlite" />
+    <img src="https://skillicons.dev/icons?i=swift" />
   </a>
 </p>
 
