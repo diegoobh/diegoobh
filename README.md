@@ -20,7 +20,7 @@ My interests are around AI, web development and iOS development.
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js" />
+    <img src="https://skillicons.dev/icons?i=html,js,css" />
   </a>
 </p>
 
