@@ -1,6 +1,6 @@
 ### Hi there, I'm Diego 👋
 
-I am Diego, a 20 year old Computer Science student at USAL.
+I am Diego, a 21 year old Computer Science student at USAL.
 My interests are around AI, web development and iOS development.
 
 ### About me ⚡
