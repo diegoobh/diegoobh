@@ -1,13 +1,14 @@
 ### Hi there, I'm Diego 👋
 
-I am Diego, a 22 year old Computer Science student at USAL.
+I'm a 22-year-old Computer Science student at USAL.
 My interests are around AI, data engineering and software development.
 
 ### About me ⚡
-📚 Studying Computer Science at the University of Salamanca.
+📚 Final year Computer Science student at University of Salamanca.
 
 🤖 AI Engineering Intership at Global Exchange
-🤖 Data Engineering Intership at AIR Institute 
+
+🤖 Data Engineering Intership at AIR Institute
 
 ### My tech stack(s)🛠
 
