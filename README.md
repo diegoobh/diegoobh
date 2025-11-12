@@ -1,11 +1,12 @@
 ### Hi there, I'm Diego 👋
 
-I am Diego, a 21 year old Computer Science student at USAL.
-My interests are around AI, web development and iOS development.
+I am Diego, a 22 year old Computer Science student at USAL.
+My interests are around AI, data engineering and software development.
 
 ### About me ⚡
 📚 Studying Computer Science at the University of Salamanca.
 
+🤖 AI Engineering Intership at Global Exchange
 🤖 Data Engineering Intership at AIR Institute 
 
 ### My tech stack(s)🛠
@@ -13,14 +14,14 @@ My interests are around AI, web development and iOS development.
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,ts,nodejs,express,mongodb,firebase,mysql&perline=3" />
+    <img src="https://skillicons.dev/icons?i=py,flask,fastapi,mongodb,firebase,mysql,java,c,ts,nodejs,express&perline=3" />
   </a>
 </p>
 
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap" />
   </a>
 </p>
 
@@ -35,6 +36,13 @@ My interests are around AI, web development and iOS development.
   <h6>Mobile</h6>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift" />
+  </a>
+</p>
+
+<p align="center">
+  <h6>Cloud</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=3" />
   </a>
 </p>
 
