@@ -6,8 +6,8 @@ My interests are around AI, data engineering and software development.
 ### About me ⚡
 📚 Final year Computer Science student at University of Salamanca.
 
+🤖 AI Engineer at NTT Data
 🤖 AI Engineering Internship at Global Exchange
-
 🤖 Data Engineering Internship at AIR Institute
 
 ### My tech stack(s)🛠
